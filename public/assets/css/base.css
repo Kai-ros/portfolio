@@ -80,6 +80,8 @@ h3 {
 
 header {
   margin: 0 0 2em 0;
+  color: rgb(193, 240, 248);
+  font-weight: bold;
 }
 
   header > p {
@@ -363,7 +365,7 @@ br.clear {
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../../images/destiny.jpg");
     }
 
     #main > section.two {
